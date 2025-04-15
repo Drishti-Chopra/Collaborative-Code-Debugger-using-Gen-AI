@@ -1,0 +1,4 @@
+! python -m pip install fastapi uvicorn sqlalchemy pydantic bcrypt langchain openai python-dotenv nest_asyncio
+pip install 'pydantic[email]'
+pip install pandas sqlalchemy
+! pip3 install psycopg2-binary
